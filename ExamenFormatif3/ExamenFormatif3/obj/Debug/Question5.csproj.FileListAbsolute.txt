@@ -1,0 +1,6 @@
+C:\Users\elacroix\Google Drive\Cegep\Programation1\ExamenFormatifFinal\ExamenFormatif3\ExamenFormatif3\bin\Debug\ExamenFormatif3.exe.config
+C:\Users\elacroix\Google Drive\Cegep\Programation1\ExamenFormatifFinal\ExamenFormatif3\ExamenFormatif3\bin\Debug\ExamenFormatif3.exe
+C:\Users\elacroix\Google Drive\Cegep\Programation1\ExamenFormatifFinal\ExamenFormatif3\ExamenFormatif3\bin\Debug\ExamenFormatif3.pdb
+C:\Users\elacroix\Google Drive\Cegep\Programation1\ExamenFormatifFinal\ExamenFormatif3\ExamenFormatif3\obj\Debug\Question5.csprojResolveAssemblyReference.cache
+C:\Users\elacroix\Google Drive\Cegep\Programation1\ExamenFormatifFinal\ExamenFormatif3\ExamenFormatif3\obj\Debug\ExamenFormatif3.exe
+C:\Users\elacroix\Google Drive\Cegep\Programation1\ExamenFormatifFinal\ExamenFormatif3\ExamenFormatif3\obj\Debug\ExamenFormatif3.pdb
